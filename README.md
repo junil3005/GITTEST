@@ -52,4 +52,5 @@ git remote add origin https://github.com/junil3005/GITTEST.git
 - PUSH
 ```bash
 git push -u origin master # 첫번째 푸시
+git push # 기본원격지 현재브랜치를 푸시
 ```
